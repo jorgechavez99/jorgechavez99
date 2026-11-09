@@ -3,7 +3,8 @@
 
 ###  A little more about me...  
 
-```const jorge = {
+```javascript
+const jorge = {
   code: ["JavaScript", "HTML", "CSS", "SQL"],
   frontend: ["React", "Vite", "Sass", "Tailwind"],
   backend: ["Node", "Express", "MongoDB", "PostgreSQL"],
@@ -13,6 +14,7 @@
   passions: ["web performance", "web development", "clean code"],
 };
 ```
+
 
 - 🌱 I’m currently learning **Php, Laravel**
 
